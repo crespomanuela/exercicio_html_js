@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2em;
+}
+
+.mensagem {
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+.sucesso {
+  color: green;
+}
+
+.erro {
+  color: red;
+}
